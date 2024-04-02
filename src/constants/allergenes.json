@@ -1,0 +1,615 @@
+{
+  "en:red-caviar": {
+    "name": {
+      "fr": "Caviar rouge",
+      "en": "Red caviar",
+      "ja": "いくら"
+    }
+  },
+  "en:peanuts": {
+    "wikidata": {
+      "en": "Q7157933"
+    },
+    "name": {
+      "pt": "Amendoins",
+      "mt": "Karawett",
+      "el": "Αραχίδες",
+      "nb": "Peanøtt",
+      "hr": "Kikiriki",
+      "es": "Cacahuetes",
+      "cs": "Jádra podzemnice olejné",
+      "fr": "Arachides",
+      "he": "בוטנים",
+      "sl": "Arašidi",
+      "th": "ถั่วลิสง",
+      "ar": "فول سوداني",
+      "ga": "Piseanna",
+      "de": "Erdnüsse",
+      "it": "Arachidi",
+      "da": "Jordnødder",
+      "fi": "Maapähkinät",
+      "ro": "Arahide",
+      "lv": "Zemesrieksti",
+      "ru": "Арахис",
+      "en": "Peanuts",
+      "et": "Maapähklid",
+      "lt": "Žemės riešutai",
+      "sr": "Kikiriki",
+      "pl": "Orzeszki ziemne",
+      "bg": "Фъстъци",
+      "zh": "花生",
+      "sv": "Jordnöt",
+      "ja": "落花生",
+      "hu": "Földimogyoró",
+      "sk": "Arašidy",
+      "nl": "Pinda"
+    }
+  },
+  "en:nuts": {
+    "name": {
+      "el": "Καρποί με κέλυφος",
+      "hr": "Orašaste plodove",
+      "nb": "Nøtter",
+      "es": "Frutos de cáscara",
+      "pt": "Nozes",
+      "mt": "Ġewż",
+      "ar": "بندقة",
+      "ga": "Cnónna",
+      "de": "Schalenfrüchte",
+      "it": "Frutta a guscio",
+      "cs": "Skořápkové plody",
+      "fr": "Fruits à coque",
+      "bs": "Bademe",
+      "th": "อัลมอนด์",
+      "he": "אגוזים",
+      "sl": "Oreški",
+      "lt": "Riešutai",
+      "sr": "Jezgrasto voće",
+      "bg": "Ядки",
+      "pl": "Orzechy",
+      "ro": "Fructe cu coajă lemnoasă",
+      "da": "Nødder",
+      "fi": "Pähkinät",
+      "ru": "Орехи",
+      "lv": "Rieksti",
+      "en": "Nuts",
+      "et": "Pähklid",
+      "sk": "Orechy",
+      "nl": "Noten",
+      "zh": "坚果",
+      "sv": "Nötter",
+      "hu": "Diófélék",
+      "ja": "くるみ/アーモンド",
+      "is": "Hnetur"
+    }
+  },
+  "en:soybeans": {
+    "name": {
+      "ar": "فول الصويا",
+      "it": "Soia",
+      "ga": "Pónairí soighe",
+      "de": "Soja",
+      "cs": "Sójové boby",
+      "th": "ถั่วเหลือง",
+      "he": "סויה",
+      "sl": "Zrnja soje",
+      "fr": "Soja",
+      "hr": "Soja",
+      "nb": "Soya",
+      "el": "Σόγια",
+      "es": "Soja",
+      "pt": "Soja",
+      "mt": "Soybeans",
+      "sk": "Sójové bôby",
+      "nl": "Soja",
+      "sv": "Soja",
+      "zh": "大豆类制品",
+      "is": "Soja",
+      "hu": "Szója",
+      "ja": "大豆",
+      "sr": "Soja",
+      "lt": "Sojų pupelės",
+      "bg": "Соя",
+      "pl": "Soja",
+      "ru": "Соя",
+      "lv": "Sojas pupas",
+      "ro": "Soia",
+      "fi": "Soija",
+      "da": "Soja",
+      "et": "Soja",
+      "en": "Soybeans"
+    }
+  },
+  "en:molluscs": {
+    "name": {
+      "hu": "Puhatestűek",
+      "ja": "あわび/いか",
+      "zh": "软体动物",
+      "sv": "Blötdjur",
+      "nl": "Weekdieren",
+      "sk": "Mäkkýše",
+      "en": "Molluscs",
+      "et": "Molluskid",
+      "ro": "Moluște",
+      "fi": "Nilviäiset",
+      "da": "Bløddyr",
+      "ru": "Моллюск",
+      "lv": "Gliemji",
+      "bg": "Мекотели",
+      "pl": "Mięczaki",
+      "lt": "Moliuskai",
+      "fr": "Mollusques",
+      "th": "มอลลัสกา",
+      "sl": "Mehkužci",
+      "cs": "Měkkýši",
+      "de": "Weichtiere",
+      "ga": "Moilisc",
+      "it": "Molluschi",
+      "ar": "رخويات",
+      "mt": "Molluski",
+      "pt": "Moluscos",
+      "es": "Moluscos",
+      "el": "Μαλάκια",
+      "hr": "Mekušac"
+    },
+    "wikidata": {
+      "en": "Q1275863"
+    }
+  },
+  "en:mustard": {
+    "name": {
+      "ru": "Горчица",
+      "lv": "Sinepes",
+      "ro": "Muștar",
+      "fi": "Sinappi",
+      "da": "Sennep",
+      "et": "Sinep",
+      "en": "Mustard",
+      "sr": "Senf",
+      "lt": "Garstyčios",
+      "bg": "Синап",
+      "pl": "Gorczyca",
+      "sv": "Senap",
+      "zh": "芥末醬",
+      "hu": "Mustár",
+      "ja": "マスタード",
+      "sk": "Horčica",
+      "nl": "Mosterd",
+      "pt": "Mostarda",
+      "mt": "Mustarda",
+      "hr": "Gorušice",
+      "nb": "Sennep",
+      "el": "Σινάπι",
+      "es": "Mostaza",
+      "cs": "Hořčice",
+      "th": "มัสตาร์ด",
+      "he": "חרדל",
+      "sl": "Gorčice",
+      "fr": "Moutarde",
+      "ar": "خردل",
+      "it": "Senape",
+      "ga": "Mustard",
+      "de": "Senf"
+    },
+    "wikidata": {
+      "en": "Q1937700"
+    }
+  },
+  "en:milk": {
+    "name": {
+      "is": "Mjólk",
+      "hu": "Tej",
+      "ja": "乳",
+      "sv": "Mjölk",
+      "zh": "乳",
+      "nl": "Melk",
+      "sk": "Mlieko",
+      "et": "Laktoos",
+      "en": "Milk",
+      "ru": "Молоко",
+      "lv": "Laktozi",
+      "ro": "Lapte",
+      "fi": "Maito",
+      "da": "Mælk",
+      "bg": "Суроватка",
+      "pl": "Mleko",
+      "sr": "Mleko",
+      "lt": "Išrūgų",
+      "th": "นม",
+      "sl": "Mleko",
+      "he": "חלב",
+      "fr": "Lait",
+      "cs": "Mléko",
+      "it": "Latte",
+      "de": "Milch",
+      "ga": "Bainne",
+      "ar": "حليبب",
+      "mt": "Ħalib",
+      "pt": "Leite",
+      "es": "Leche",
+      "hr": "Laktoza",
+      "nb": "Melk",
+      "el": "Γάλα"
+    }
+  },
+  "en:gluten": {
+    "name": {
+      "sk": "Pšenica",
+      "nl": "Gluten",
+      "zh": "麸质",
+      "sv": "Gluten",
+      "hu": "Glutén",
+      "ja": "小麦/そば",
+      "is": "Glúten",
+      "lt": "Avižos",
+      "ee": "Nisu",
+      "sr": "Pšenica",
+      "bg": "Глутен",
+      "pl": "Gluten",
+      "ro": "Gluten",
+      "da": "Gluten",
+      "fi": "Gluteeni",
+      "ru": "Глютен",
+      "lv": "Auzas",
+      "en": "Gluten",
+      "et": "Gluteen",
+      "ar": "غلوتين",
+      "de": "Gluten",
+      "ga": "Glútan",
+      "it": "Glutine",
+      "cs": "Lepek",
+      "fr": "Gluten",
+      "bs": "Gluten",
+      "th": "กลูเต็น",
+      "sl": "Gluten",
+      "he": "גלוטן",
+      "el": "Γλουτένη",
+      "hr": "Gluten",
+      "nb": "Gluten",
+      "es": "Gluten",
+      "pt": "Glúten",
+      "mt": "Glutina"
+    },
+    "wikidata": {
+      "en": "Q188251"
+    }
+  },
+  "en:pork": {
+    "name": {
+      "ja": "豚肉",
+      "en": "Pork",
+      "fr": "Porc"
+    }
+  },
+  "en:lupin": {
+    "name": {
+      "ar": "ترمس",
+      "de": "Lupinen",
+      "ga": "Lúipín",
+      "it": "Lupini",
+      "cs": "Vlčí bob",
+      "fr": "Lupin",
+      "th": "ลูพิน",
+      "sl": "Volčji",
+      "el": "Λούπινο",
+      "hr": "Lupin",
+      "es": "Altramuces",
+      "pt": "Tremoço",
+      "mt": "Lupina",
+      "sk": "Vlčí bôb",
+      "nl": "Lupine",
+      "zh": "羽扇豆",
+      "sv": "Lupin",
+      "hu": "Csillagfürt",
+      "ja": "ルピナス属",
+      "lt": "Lubinai",
+      "bg": "Лупина",
+      "pl": "Łubin",
+      "ro": "Lupin",
+      "da": "Lupin",
+      "fi": "Lupiinit",
+      "ru": "Люпин",
+      "lv": "Lupīna",
+      "en": "Lupin",
+      "et": "Lupiin"
+    },
+    "wikidata": {
+      "en": "Q156811"
+    }
+  },
+  "en:sulphur-dioxide-and-sulphites": {
+    "name": {
+      "cs": "Oxid siřičitý a siřičitany",
+      "th": "ซัลเฟอร์ไดออกไซด์และซัลไฟต์",
+      "sl": "Žveplov dioksid in sulfiti",
+      "fr": "Anhydride sulfureux et sulfites",
+      "ar": "ثاني أكسيد الكبريت والكبريتات",
+      "it": "Anidride solforosa e solfiti",
+      "ga": "Dé-ocsaíd sulfair agus suilfítí",
+      "de": "Schwefeldioxid und Sulfite",
+      "pt": "Dióxido de enxofre e sulfitos",
+      "mt": "Dijossidu tal-kubrit u sulfiti",
+      "hr": "Sulfita",
+      "nb": "Svovedioxide en sulfieten",
+      "el": "Διοξείδιο του θείου και θειώδεις",
+      "es": "Dióxido de azufre y sulfitos",
+      "sv": "Svaveldioxid och sulfit",
+      "zh": "二氧化硫和亚硫酸盐",
+      "hu": "Kén-dioxid és szulfitok",
+      "ja": "二酸化硫黄および亜硫酸塩",
+      "sk": "Oxid siričitý a siričitany",
+      "nl": "Zwaveldioxide en sulfieten",
+      "ru": "Диоксид и сульфит серы",
+      "lv": "Sēra dioksīds un sulfīt",
+      "ro": "Dioxidul de sulf și sulfiții",
+      "da": "Svovldioxid og sulfitter",
+      "fi": "Rikkioksidi ja sulfiitit",
+      "et": "Vääveldioksiid ja sulfitid",
+      "en": "Sulphur dioxide and sulphites",
+      "sr": "Sumpor dioksid i sulfiti",
+      "lt": "Sieros dioksidas ir sulfitai",
+      "bg": "Серен диоксид и сулфити",
+      "pl": "Dwutlenek siarki i siarczyny"
+    }
+  },
+  "en:yamaimo": {
+    "name": {
+      "en": "Yamaimo",
+      "ja": "やまいも",
+      "fr": "Igname"
+    }
+  },
+  "en:banana": {
+    "name": {
+      "ja": "バナナ",
+      "en": "Banana",
+      "fr": "Banane"
+    }
+  },
+  "en:fish": {
+    "wikidata": {
+      "en": "Q600396"
+    },
+    "name": {
+      "sk": "Ryby",
+      "nl": "Vis",
+      "zh": "魚",
+      "sv": "Fisk",
+      "ja": "さけ/さば",
+      "hu": "Hal",
+      "lt": "Žuvis",
+      "sr": "Riba",
+      "pl": "Ryba",
+      "bg": "Риба",
+      "da": "Fisk",
+      "fi": "Kala",
+      "ro": "Pește",
+      "lv": "Zivis",
+      "ru": "Рыба",
+      "en": "Fish",
+      "et": "Kala",
+      "ar": "سمك",
+      "ga": "Éisc",
+      "de": "Fisch",
+      "it": "Pesce",
+      "cs": "Ryby",
+      "fr": "Poisson",
+      "sl": "Ribe",
+      "he": "דג",
+      "th": "ปลา",
+      "el": "Ψάρια",
+      "nb": "Fisk",
+      "hr": "Riba",
+      "es": "Pescado",
+      "pt": "Peixe",
+      "mt": "Ħut"
+    }
+  },
+  "en:beef": {
+    "name": {
+      "ja": "牛肉",
+      "en": "Beef",
+      "fr": "Bœuf"
+    }
+  },
+  "en:eggs": {
+    "wikidata": {
+      "en": "Q93189"
+    },
+    "name": {
+      "cs": "Vejce",
+      "th": "ไข่",
+      "he": "ביצים",
+      "sl": "Jajca",
+      "bs": "Jaja",
+      "fr": "Œufs",
+      "ar": "بيض",
+      "it": "Uova",
+      "ga": "Uibheacha",
+      "de": "Eier",
+      "pt": "Ovos",
+      "mt": "Bajd",
+      "hr": "Jaja",
+      "nb": "Egg",
+      "el": "Αυγά",
+      "es": "Huevos",
+      "sv": "Ägg",
+      "zh": "雞蛋",
+      "hu": "Tojás",
+      "ja": "卵",
+      "sk": "Vajcia",
+      "nl": "Eieren",
+      "ru": "Яйца",
+      "lv": "Olas",
+      "ro": "Ouă",
+      "fi": "Munat",
+      "da": "Æg",
+      "et": "Munad",
+      "en": "Eggs",
+      "sr": "Jaja",
+      "lt": "Kiaušiniai",
+      "bg": "Яйца",
+      "pl": "Jaja"
+    }
+  },
+  "en:celery": {
+    "name": {
+      "en": "Celery",
+      "et": "Seller",
+      "fi": "Selleri",
+      "da": "Selleri",
+      "ro": "Țelină",
+      "lv": "Selerijas",
+      "ru": "Сельдерей",
+      "pl": "Seler",
+      "bg": "Целина",
+      "lt": "Salierai",
+      "sr": "Celer",
+      "ja": "セロリ",
+      "hu": "Zeller",
+      "zh": "旱芹",
+      "sv": "Selleri",
+      "nl": "Selderij",
+      "sk": "Zeler",
+      "mt": "Karfus",
+      "pt": "Aipo",
+      "es": "Apio",
+      "el": "Σέλινο",
+      "nb": "Selleri",
+      "hr": "Celer",
+      "fr": "Céleri",
+      "sl": "Listna zelena",
+      "he": "סלרי",
+      "th": "ขึ้นฉ่าย",
+      "cs": "Celer",
+      "de": "Sellerie",
+      "ga": "Soilire",
+      "it": "Sedano",
+      "ar": "كرفس"
+    },
+    "wikidata": {
+      "en": "Q28298"
+    }
+  },
+  "en:matsutake": {
+    "name": {
+      "en": "Matsutake",
+      "ja": "まつたけ",
+      "fr": "Champignon matsutake"
+    }
+  },
+  "en:chicken": {
+    "name": {
+      "en": "Chicken",
+      "ja": "鶏肉",
+      "fr": "Poulet"
+    }
+  },
+  "en:gelatin": {
+    "name": {
+      "en": "Gelatin",
+      "ja": "ゼラチン",
+      "fr": "Gélatine"
+    }
+  },
+  "en:crustaceans": {
+    "name": {
+      "es": "Crustáceos",
+      "el": "Καρκινοειδή",
+      "hr": "Rakova",
+      "mt": "Krustaċej",
+      "pt": "Crustáceos",
+      "de": "Krebstiere",
+      "ga": "Crústach",
+      "it": "Crostacei",
+      "ar": "قشريات",
+      "fr": "Crustacés",
+      "sl": "Raki",
+      "th": "ครัสเตเชียน",
+      "cs": "Korýši",
+      "pl": "Skorupiaki",
+      "bg": "Ракообразни",
+      "lt": "Vėžiagyviai",
+      "en": "Crustaceans",
+      "et": "Koorikloomad",
+      "fi": "Äyriäiset",
+      "da": "Krebsdyr",
+      "ro": "Crustacee",
+      "lv": "Vēžveidīgie",
+      "ru": "Ракообразные",
+      "nl": "Schaaldieren",
+      "sk": "Kôrovce",
+      "ja": "えび/かに",
+      "hu": "Rákfélék",
+      "zh": "甲壳亚门",
+      "sv": "Kräftdjur"
+    }
+  },
+  "en:peach": {
+    "name": {
+      "ja": "もも",
+      "en": "Peach",
+      "fr": "Pêche"
+    }
+  },
+  "en:orange": {
+    "name": {
+      "ja": "オレンジ",
+      "en": "Orange",
+      "fr": "Orange"
+    }
+  },
+  "en:apple": {
+    "name": {
+      "ja": "りんご",
+      "en": "Apple",
+      "fr": "Pomme"
+    }
+  },
+  "en:sesame-seeds": {
+    "name": {
+      "nl": "Sesamzaad",
+      "sk": "Sezamové semeno",
+      "ja": "ごま",
+      "hu": "Szezámmag",
+      "sv": "Sesamfrön",
+      "zh": "芝麻",
+      "pl": "Nasiona sezamu",
+      "bg": "Сусамово семе",
+      "sr": "Susam",
+      "lt": "Sezamo sėklos",
+      "et": "Seesamiseemned",
+      "en": "Sesame seeds",
+      "lv": "Sezama sēklas",
+      "ru": "Сезам",
+      "da": "Sesamfrø",
+      "fi": "Seesaminsiemenet",
+      "ro": "Semințe de susan",
+      "it": "Semi di sesamo",
+      "de": "Sesam",
+      "ga": "Síolta seasamain",
+      "ar": "سمسم",
+      "sl": "Sezamovo seme",
+      "he": "שומשום",
+      "th": "งา",
+      "fr": "Graines de sésame",
+      "cs": "Sezamová semena",
+      "es": "Granos de sésamo",
+      "nb": "Sesamfrø",
+      "hr": "Sezam",
+      "el": "Σπόροι σησαμιού",
+      "mt": "Ġulġlien",
+      "pt": "Sementes de sésamo"
+    },
+    "wikidata": {
+      "en": "Q20026786"
+    }
+  },
+  "en:kiwi": {
+    "name": {
+      "ja": "キウイフルーツ",
+      "en": "Kiwi",
+      "fr": "Kiwi"
+    }
+  }
+}
